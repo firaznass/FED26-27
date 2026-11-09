@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.glossier.com/en-nl
+  https://athenaeumscheltema.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Glossier home pagina  
-  <img src="readme-images/Glossier-homepagina.png" width="375px" alt="Home pagina van Glossier">
+  Scheltema home pagina  
+  <img src="readme-images/Scheltem-homepagina.png" width="375px" alt="Home pagina van Scheltema">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Glossier skincare pagina  
-  <img src="readme-images/Glossier-skincarepagina.png" width="375px" alt="Skincare pagina van Glossier">
+  Scheltema product pagina  
+  <img src="readme-images/Scheltema-productpagina.png" width="375px" alt="Product pagina van Scheltema">
  
 </details>
 
