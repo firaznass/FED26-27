@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://www.glossier.com/en-nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Glossier home pagina  
   <img src="readme-images/Glossier-homepagina.png" width="375px" alt="Home pagina van Glossier">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Glossier skincare pagina  
   <img src="readme-images/Glossier-skincarepagina.png" width="375px" alt="Skincare pagina van Glossier">
  
 </details>
